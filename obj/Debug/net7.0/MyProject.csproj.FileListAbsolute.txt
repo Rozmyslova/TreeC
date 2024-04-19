@@ -1,0 +1,14 @@
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\bin\Debug\net7.0\MyProject.exe
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\bin\Debug\net7.0\MyProject.deps.json
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\bin\Debug\net7.0\MyProject.runtimeconfig.json
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\bin\Debug\net7.0\MyProject.dll
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\bin\Debug\net7.0\MyProject.pdb
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\obj\Debug\net7.0\MyProject.dll
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\obj\Debug\net7.0\refint\MyProject.dll
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\obj\Debug\net7.0\MyProject.pdb
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\obj\Debug\net7.0\MyProject.genruntimeconfig.cache
+C:\Рабочая\Учеба_Разработчик\C#\HW1\MyProject\obj\Debug\net7.0\ref\MyProject.dll
